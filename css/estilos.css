@@ -1,14 +1,14 @@
 body{
      color: gray;
      text-align: center;
-     font-family: Arial;
+     font-family: 'Courier New', Courier, monospace;
      font-size: 16px;
      margin: 0;
      padding: 0;
 }
 
 #container{
-     width: 50%;
+     width: 70%;
      padding: 1em;
      text-align: left;
      border: 1px solid #ddd;
@@ -17,5 +17,5 @@ body{
 }
 
 #container h1{
-     font-size: 70px;
+     font-size: 20px;
 }
